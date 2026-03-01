@@ -34,6 +34,6 @@ I aim to contribute to product-driven teams where technology solves real-world p
 ---
 
 ## 📫 Connect With Me
-- LinkedIn:linkedin.com/in/dhushyanth-j-4779b4257
+- LinkedIn: https://linkedin.com/in/dhushyanth-j-4779b4257
 - Email: dhushyanthj07@gmail.com
 
