@@ -1,6 +1,6 @@
 👋 Hello, I'm Dhushyanth
 
-I'm a final-year Computer Science and Business Systems student with a strong foundation in programming and problem-solving.  
+I'm a recent graduate from Computer Science and Business Systems with a strong foundation in programming and problem-solving.  
 I focus on building efficient, scalable applications and continuously improving my technical and communication skills.
 
 I aim to contribute to product-driven teams where technology solves real-world problems.
