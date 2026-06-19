@@ -1,6 +1,6 @@
 ## Hello, I'm Dhushyanth
 
-I'm a recent graduate from Computer Science and Business Systems with a strong foundation in programming and problem-solving.  
+I'm a recent graduate from B.Tech - Computer Science and Business Systems with a strong foundation in programming and problem-solving.  
 I focus on building efficient, scalable applications and continuously improving my technical and communication skills.
 
 I aim to contribute to product-driven teams where technology solves real-world problems.
@@ -18,11 +18,11 @@ I aim to contribute to product-driven teams where technology solves real-world p
 
 ## Tech Stack
 
-**Languages:** Java, Python, C  
+**Languages:** Java, C, SQL
 **Web:** HTML, CSS, JavaScript  
 **Database:** MySQL  
-**Cloud:** AWS (Basics)  
-**Tools:** Git, GitHub, VS Code  
+**Cloud:** Microsoft Azure Fundamentals
+**Tools:** Git, GitHub, VS Code ,Spring Boot
 
 ---
 
