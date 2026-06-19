@@ -1,4 +1,4 @@
-👋 Hello, I'm Dhushyanth
+## Hello, I'm Dhushyanth
 
 I'm a recent graduate from Computer Science and Business Systems with a strong foundation in programming and problem-solving.  
 I focus on building efficient, scalable applications and continuously improving my technical and communication skills.
@@ -7,7 +7,7 @@ I aim to contribute to product-driven teams where technology solves real-world p
 
 ---
 
-## 🚀 Interests & Focus Areas
+## Interests & Focus Areas
 - Data Structures & Algorithms  
 - Backend Development  
 - Cloud Computing  
@@ -16,7 +16,7 @@ I aim to contribute to product-driven teams where technology solves real-world p
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Java, Python, C  
 **Web:** HTML, CSS, JavaScript  
@@ -26,7 +26,7 @@ I aim to contribute to product-driven teams where technology solves real-world p
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 - Improving DSA for placements  
 - Building real-world backend projects  
 - Strengthening communication skills  
